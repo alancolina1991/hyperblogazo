@@ -1,5 +1,5 @@
 body {
-    background: #333;
+    background: rgb(231, 231, 231);
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -8,7 +8,7 @@ body {
 
 #cabecera {
     background: #33a;
-    color: green;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
